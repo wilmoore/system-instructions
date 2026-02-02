@@ -1,7 +1,7 @@
-# LLM System Instructions
+# Agents
 
-Personal system instructions for various LLMs.
+Personal system instructions for various LLM agents.
 
 ## Structure
 
-Each LLM gets its own folder with an `instruction.md` file.
+Each agent gets its own folder with an `instruction.md` file.
